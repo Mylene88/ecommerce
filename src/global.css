@@ -1,0 +1,5 @@
+body {
+    background-image: url('chemin/vers/mon/image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }

@@ -1,0 +1,6 @@
+{
+    "globals": {
+      "history": "readonly"
+    },
+    "parser": "babel-eslint"
+  }
